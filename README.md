@@ -22,10 +22,12 @@ This project implements a Rubik's Cube solver with three different cube represen
 
 ## Cube Representations
 
-- General Representation:
+General Representation:
+
 ![Screenshot 2024-06-22 161753](https://github.com/aeshwin10/Rubik-s-Cube-Solver/assets/94974005/618cd721-7946-4ca9-956f-543efa8ab5a6)
 
-- Solved Cube along with the moves:
+Solved Cube along with the moves:
+
 ![Screenshot 2024-06-22 161817](https://github.com/aeshwin10/Rubik-s-Cube-Solver/assets/94974005/c80ed018-9626-425c-bbab-6474d8915ef6)
 
 
