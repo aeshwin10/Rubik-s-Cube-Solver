@@ -1,6 +1,6 @@
 # Rubik's Cube Solver
 
-A versatile Rubik's Cube solver that uses multiple representation models and solving algorithms.
+A versatile Rubik's Cube solver that uses multiple representation models and solving algorithms. From teaching others how to solve a physical cube to developing one on my own.
 
 ## Description
 
@@ -22,10 +22,10 @@ This project implements a Rubik's Cube solver with three different cube represen
 
 ## Cube Representations
 
-General Representation:
+- General Representation:
 ![Screenshot 2024-06-22 161753](https://github.com/aeshwin10/Rubik-s-Cube-Solver/assets/94974005/618cd721-7946-4ca9-956f-543efa8ab5a6)
 
-Solved Cube along with the moves:
+- Solved Cube along with the moves:
 ![Screenshot 2024-06-22 161817](https://github.com/aeshwin10/Rubik-s-Cube-Solver/assets/94974005/c80ed018-9626-425c-bbab-6474d8915ef6)
 
 
@@ -33,9 +33,8 @@ Solved Cube along with the moves:
 Example of the solver from the main function:
 ![Screenshot 2024-06-22 161835](https://github.com/aeshwin10/Rubik-s-Cube-Solver/assets/94974005/dc1bfa6c-3b8c-4d32-ab9b-85b1eb004063)
 
-Example of moves which can be done:
+Examples of moves that can be done:
 ![Screenshot 2024-06-22 161859](https://github.com/aeshwin10/Rubik-s-Cube-Solver/assets/94974005/6de38670-375e-45c4-a736-e078f2a86fe4)
-
 
 
 ## Installation
