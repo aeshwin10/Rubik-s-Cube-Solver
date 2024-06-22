@@ -1,0 +1,22 @@
+# ninja log v6
+68	895	7407244202724036	CMakeFiles/Project_3.dir/PatternDatabases/math.cpp.obj	ddea5eaf189a8984
+77	11089	7407244202814042	CMakeFiles/Project_3.dir/Model/RubiksCubeBitboard.cpp.obj	2b1c6a1bc0b281b3
+22	11102	7407244202254310	CMakeFiles/Project_3.dir/Model/RubiksCube1dArray.cpp.obj	cfc17d68f56dcb75
+28	11105	7407244202314375	CMakeFiles/Project_3.dir/Model/RubiksCube3dArray.cpp.obj	d59d4fe00ea8249b
+60	11435	7407244202634024	CMakeFiles/Project_3.dir/PatternDatabases/PatternDatabase.cpp.obj	83ba498e3543bb4a
+41	11546	7407244202444394	CMakeFiles/Project_3.dir/PatternDatabases/CornerPatternDatabase.cpp.obj	ae1844dca50c84e1
+13	11589	7407244202169222	CMakeFiles/Project_3.dir/Model/RubiksCube.cpp.obj	b4fc823dcd72e363
+51	11653	7407244202544402	CMakeFiles/Project_3.dir/PatternDatabases/NibbleArray.cpp.obj	477cfc9f6df70343
+35	11745	7407244202384378	CMakeFiles/Project_3.dir/PatternDatabases/CornerDBMaker.cpp.obj	2956e32f5dd8df5a
+75	2073	7407277989097549	CMakeFiles/Project_3.dir/Model/RubiksCubeBitboard.cpp.obj	2b1c6a1bc0b281b3
+55	2081	7407277988916557	CMakeFiles/Project_3.dir/main.cpp.obj	1f3e47e262141234
+65	2153	7407277988996562	CMakeFiles/Project_3.dir/PatternDatabases/CornerDBMaker.cpp.obj	2956e32f5dd8df5a
+2153	2777	7407278009886013	Project_3.exe	9cbe239634e339e
+58	3002	7407306727246698	CMakeFiles/Project_3.dir/main.cpp.obj	1f3e47e262141234
+3002	3250	7407306756688523	Project_3.exe	9cbe239634e339e
+32	1444	7407307008816028	CMakeFiles/Project_3.dir/main.cpp.obj	1f3e47e262141234
+1445	1596	7407307022939437	Project_3.exe	9cbe239634e339e
+38	1515	7407307582157807	CMakeFiles/Project_3.dir/main.cpp.obj	1f3e47e262141234
+1516	1674	7407307596938765	Project_3.exe	9cbe239634e339e
+7	1709	7407313745432961	CMakeFiles/Project_3.dir/main.cpp.obj	1f3e47e262141234
+1709	2017	7407313762459245	Project_3.exe	9cbe239634e339e
